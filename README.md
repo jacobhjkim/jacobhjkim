@@ -2,6 +2,7 @@
 📫 How to reach me:
 - [jacobkim.io](http://jacobkim.io)
 - [linkedin](https://www.linkedin.com/in/jacobhjkim/)
+- [me@jacobkim.io](mailto:me@jacobkim.io)
 
 <!--
 **jacobhjkim/jacobhjkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
