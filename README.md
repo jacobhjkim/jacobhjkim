@@ -1,6 +1,6 @@
 ### Hi there 👋
 📫 How to reach me:
-- [jacobkim.io](http://jacobkim.io)
+- [jacob.kim](http://jacob.kim)
 - [linkedin](https://www.linkedin.com/in/jacobhjkim/)
 - [me@jacobkim.io](mailto:me@jacobkim.io)
 
